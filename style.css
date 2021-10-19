@@ -22,7 +22,7 @@ body {
 
 
 section#grid-section {
-  height: 65vh;
+  height: 60vh;
   width: 75vw;
   display: grid;
   grid-gap: 30px;
